@@ -5,7 +5,7 @@
         <item>
             <title>1.0</title>
             <pubDate>Sat, 07 Mar 2026 20:56:29 +0530</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle1.0.dmg" length="4578074" type="application/octet-stream" sparkle:edSignature="gW7dItGNdKcd5+BTZOmFXb0PU14L3GYYH8LOEXfKDSF/gMOW/28amUgvrEwvB1JUkih5ZqVUOBVMvqXdnukIAg=="/>
