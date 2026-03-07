@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Muffle</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Sat, 07 Mar 2026 20:39:47 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle.dmg" length="4576677" type="application/octet-stream" sparkle:edSignature="VcWsDlO2ic5BzqZhs1z8qB58gyOyHR9L7X4Qvm36Z37OFLpL9zfF811XgM989elKePFwv8lzsJ2G/OzUPtj/DQ=="/>
+        </item>
+    </channel>
+</rss>
