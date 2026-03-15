@@ -3,12 +3,21 @@
     <channel>
         <title>Muffle</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 07 Mar 2026 20:56:29 +0530</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Sun, 15 Mar 2026 19:57:01 +0530</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle1.0.dmg" length="4578074" type="application/octet-stream" sparkle:edSignature="gW7dItGNdKcd5+BTZOmFXb0PU14L3GYYH8LOEXfKDSF/gMOW/28amUgvrEwvB1JUkih5ZqVUOBVMvqXdnukIAg=="/>
+            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle1.1.dmg" length="4595534" type="application/octet-stream" sparkle:edSignature="pLdZsYP3ItxERfhRIYCvJTNRFu2n28oM387Llc9dQtyajfenXK5USg3svbBpzIRtys8A/bc6G1+ETqGx+hr5CA=="/>
+            <description><![CDATA[
+                <ul>
+                <li>Added monitor specific blur support</li>
+                <li>Multi window application support</li>
+                <li>Blur and dim will be disabled on mission control</li>
+                <li>Performance improvements</li>
+                </ul>
+            ]]>
+            </description>
         </item>
     </channel>
 </rss>
