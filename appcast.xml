@@ -8,10 +8,10 @@
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://abjcodes.github.io/Muffle-releases/Muffle1.2.dmg" length="4616943" type="application/octet-stream" sparkle:edSignature="7qJy1zTET/yXOix7eiDbO9OW99OxDYjJheqFwwaBGDU218Ba18OazHeh1pHgsia3niwS8EfHnuRKBPe7aXZkDQ=="/>
+            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle1.2.dmg" length="4616943" type="application/octet-stream" sparkle:edSignature="7qJy1zTET/yXOix7eiDbO9OW99OxDYjJheqFwwaBGDU218Ba18OazHeh1pHgsia3niwS8EfHnuRKBPe7aXZkDQ=="/>
                 <description><![CDATA[
                    <ul>
-                   <li>Added app blacklisting support in the menubar</li>
+                   <li>Added individual app blacklisting support in the menubar</li>
                    <li>Multi space glitching fix</li>
                    <li>Minor bug fixes</li>
                    </ul>
