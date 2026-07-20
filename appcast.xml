@@ -3,20 +3,19 @@
     <channel>
         <title>Muffle</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Wed, 01 Apr 2026 19:21:43 +0530</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.3</title>
+            <pubDate>Mon, 20 Jul 2026 19:53:31 +0530</pubDate>
+            <sparkle:version>1.3</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle1.2.dmg" length="4616943" type="application/octet-stream" sparkle:edSignature="7qJy1zTET/yXOix7eiDbO9OW99OxDYjJheqFwwaBGDU218Ba18OazHeh1pHgsia3niwS8EfHnuRKBPe7aXZkDQ=="/>
-                <description><![CDATA[
-                   <ul>
-                   <li>Added individual app blacklisting support in the menubar</li>
-                   <li>Multi space glitching fix</li>
-                   <li>Minor bug fixes</li>
-                   </ul>
-               ]]>
-               </description>
+            <enclosure url="https://github.com/Abjcodes/Muffle-releases/releases/download/prod/Muffle.dmg" length="4624545" type="application/octet-stream" sparkle:edSignature="yLQT+XBD9RHEYGrv1MkplfVEhTvUnfudU3bg4Sv23s9WwiZnlHOq501JI9+AEkdBeWtFRsGkcHmXG/SiolCIBg=="/>
+            <description><![CDATA[
+                              <ul>
+                              <li>Added toggle sensitivity slider</li>
+                              <li>Blur and dim is disabled on minimizing/closing windows</li>
+                              </ul>
+                          ]]>
+            </description>
         </item>
     </channel>
 </rss>
